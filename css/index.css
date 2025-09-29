@@ -1,0 +1,107 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&family=Bungee+Spice&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Mogra&family=Nabla&family=Press+Start+2P&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+   background-image: url(ajuste\ a\ imagem\ para.png);
+    background-repeat: no-repeat;
+    background-color: rgba(200, green, blue, alpha);
+    background-size:cover;
+    color: white;
+    
+    font-size: 30px;
+    margin: 0;
+}
+
+.camp  {
+    border-radius: 8px;
+     padding: 8px;
+     margin-bottom: 5vh;
+     width: 100%;
+   
+
+}
+main{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 15vh;
+  
+}
+
+.desc {
+    border-radius: 8px;
+    padding: 15px;
+    width: 100%;
+}   
+
+.option{
+    display: flex;
+    margin-top: 10vh;
+
+}
+
+select {
+    margin: 15px;
+    margin-top: 5px;
+    border-radius: 8px;
+    
+}
+.hIII{
+    font-family: "Bungee Spice", sans-serif;
+}
+.A{
+     font-family: "Bungee Spice", sans-serif;
+}
+
+.custom-select{
+    margin-top: 10px;
+    font-size: 2vh;
+}
+.form-control-file{
+    margin-left: 40vh;
+    font-size: 2vh;
+}
+.text{
+     font-family: "Bungee Spice", sans-serif;
+     font-size: 3vh;
+     margin-top: 6vh;
+     
+}
+
+.nav_form{
+   color: rgba(200, 0, 200, 0.5);
+    border-color: rgba(200, 200, 200, 0.5);
+    border-style: inset;
+    border-radius: 2vh;
+    padding: 1vh;
+    font-size: 25px;
+    
+    
+}
+li {
+    margin-top: 15px;
+    margin: 15px;
+  
+    
+}
+ul{
+    display: flex;
+    list-style:none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+}
+
+
+
+
